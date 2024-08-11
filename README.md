@@ -1,2 +1,2 @@
-Student Name：Naiyao Li
-Student ID：17993934
+Student ID: 17993934
+Student Name: Naiyao Li

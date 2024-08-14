@@ -1,7 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\worksheet3"
+    "\\worksheet3\\worksheet3_backend",
+    "\\worksheet3\\worksheet3_backend\\src",
+    "\\worksheet3\\worksheet3_backend\\src\\api",
+    "\\worksheet3\\worksheet3_frontend\\src",
+    "\\worksheet3\\worksheet3_frontend\\src\\app",
+    "\\worksheet3\\worksheet3_frontend\\src\\app\\create-book",
+    "\\worksheet3\\worksheet3_frontend\\src\\app\\show-book",
+    "\\worksheet4",
+    "\\worksheet4\\frontend"
   ],
+  "SelectedNode": "\\worksheet4\\frontend\\.gitignore",
   "PreviewInSolutionExplorer": false
 }
